@@ -22,17 +22,51 @@
 
 ### 内容创作
 
-| Skill | 简介 | 获取 |
-| --- | --- | --- |
-| **[zhaoji-writing](https://github.com/AidenXu-1/zhaoji-writing-skill)** | 中文名「兆基写作」。完成中文内容的选题、创作、审查与可靠定稿，适合口播稿、长文、图文和公众号内容。 | [获取 Skill](https://github.com/AidenXu-1/zhaoji-writing-skill) |
-| **[wechat-layout-publisher](https://github.com/AidenXu-1/wechat-layout-publisher)** | 中文名「公众号排版发布」。完成配图、封面、排版和公众号草稿交付，适合把内容整理成可检查、可复制、可发布的公众号成稿。 | [获取 Skill](https://github.com/AidenXu-1/wechat-layout-publisher/releases/latest) |
+<table>
+  <thead>
+    <tr>
+      <th width="24%" nowrap>Skill</th>
+      <th width="61%">简介</th>
+      <th width="15%" nowrap>获取</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td nowrap><strong><a href="https://github.com/AidenXu-1/zhaoji-writing-skill">zhaoji-writing</a></strong></td>
+      <td>「兆基写作」。完成中文内容的选题、创作、审查与可靠定稿，适合口播稿、长文、图文和公众号内容。</td>
+      <td nowrap><a href="https://github.com/AidenXu-1/zhaoji-writing-skill">获取 Skill</a></td>
+    </tr>
+    <tr>
+      <td nowrap><strong><a href="https://github.com/AidenXu-1/wechat-layout-publisher">wechat-layout-publisher</a></strong></td>
+      <td>「公众号排版发布」。完成配图、封面、排版和公众号草稿交付，适合把内容整理成可检查、可复制、可发布的公众号成稿。</td>
+      <td nowrap><a href="https://github.com/AidenXu-1/wechat-layout-publisher">获取 Skill</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ### Vibe Coding
 
-| Skill | 简介 | 获取 |
-| --- | --- | --- |
-| **[agent-team](https://github.com/AidenXu-1/agent-team-skill)** | 中文名「Agent 团队」。组织多个 AI 会话分工、接班和独立检查，适合长期项目、复杂功能，以及需要持续协作与验收的工作。 | [获取 Skill](https://github.com/AidenXu-1/agent-team-skill/releases/latest) |
-| **[vibe-project-foundation](https://github.com/AidenXu-1/vibe-project-foundation-skill)** | 中文名「Vibe 项目地基」。为新的软件项目搭建开发前地基，适合新建 Vibe Coding 项目并建立必要文档与安全边界。 | [获取 Skill](https://github.com/AidenXu-1/vibe-project-foundation-skill/releases/latest) |
+<table>
+  <thead>
+    <tr>
+      <th width="24%" nowrap>Skill</th>
+      <th width="61%">简介</th>
+      <th width="15%" nowrap>获取</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td nowrap><strong><a href="https://github.com/AidenXu-1/agent-team-skill">agent-team</a></strong></td>
+      <td>「Agent 团队」。组织多个 AI 会话分工、接班和独立检查，适合长期项目、复杂功能，以及需要持续协作与验收的工作。</td>
+      <td nowrap><a href="https://github.com/AidenXu-1/agent-team-skill">获取 Skill</a></td>
+    </tr>
+    <tr>
+      <td nowrap><strong><a href="https://github.com/AidenXu-1/vibe-project-foundation-skill">vibe-project-foundation</a></strong></td>
+      <td>「Vibe 项目地基」。为新的软件项目搭建开发前地基，适合新建 Vibe Coding 项目并建立必要文档与安全边界。</td>
+      <td nowrap><a href="https://github.com/AidenXu-1/vibe-project-foundation-skill">获取 Skill</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ### IP 操盘
 
