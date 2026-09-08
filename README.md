@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/profile-banner.png" width="100%" alt="深墨色山川之间，一条暖金色路径通向远方，象征理解、判断、学习与落地。">
-</p>
-
 # 兆基
 
 关注真实需求和落地交付的 AI 实践者。持续创建行内人专家Skills、工作流与提效工具。
@@ -26,17 +22,17 @@
 
 ### 内容创作
 
-| Skill | 用途 | 适用场景 | 获取 |
-| --- | --- | --- | --- |
-| **[兆基写作](https://github.com/AidenXu-1/zhaoji-writing-skill)** | 中文内容创作、审查与可靠定稿 | 口播稿、长文、图文和公众号内容 | [获取 Skill](https://github.com/AidenXu-1/zhaoji-writing-skill) |
-| **[公众号排版发布](https://github.com/AidenXu-1/wechat-layout-publisher)** | 配图、封面、排版和公众号草稿发布 | 将内容整理成可检查、可复制、可发布的公众号成稿 | [获取 Skill](https://github.com/AidenXu-1/wechat-layout-publisher/releases/latest) |
+| Skill | 简介 | 获取 |
+| --- | --- | --- |
+| **[zhaoji-writing](https://github.com/AidenXu-1/zhaoji-writing-skill)** | 中文名「兆基写作」。完成中文内容的选题、创作、审查与可靠定稿，适合口播稿、长文、图文和公众号内容。 | [获取 Skill](https://github.com/AidenXu-1/zhaoji-writing-skill) |
+| **[wechat-layout-publisher](https://github.com/AidenXu-1/wechat-layout-publisher)** | 中文名「公众号排版发布」。完成配图、封面、排版和公众号草稿交付，适合把内容整理成可检查、可复制、可发布的公众号成稿。 | [获取 Skill](https://github.com/AidenXu-1/wechat-layout-publisher/releases/latest) |
 
 ### Vibe Coding
 
-| Skill | 用途 | 适用场景 | 获取 |
-| --- | --- | --- | --- |
-| **[Agent Team](https://github.com/AidenXu-1/agent-team-skill)** | 组织多个 AI 会话分工、接班和独立检查 | 长期项目、复杂功能、需要持续协作与验收的工作 | [获取 Skill](https://github.com/AidenXu-1/agent-team-skill/releases/latest) |
-| **[Vibe Project Foundation](https://github.com/AidenXu-1/vibe-project-foundation-skill)** | 为新的软件项目搭建开发前地基 | 新建 Vibe Coding 项目、建立文档与安全边界 | [获取 Skill](https://github.com/AidenXu-1/vibe-project-foundation-skill/releases/latest) |
+| Skill | 简介 | 获取 |
+| --- | --- | --- |
+| **[agent-team](https://github.com/AidenXu-1/agent-team-skill)** | 中文名「Agent 团队」。组织多个 AI 会话分工、接班和独立检查，适合长期项目、复杂功能，以及需要持续协作与验收的工作。 | [获取 Skill](https://github.com/AidenXu-1/agent-team-skill/releases/latest) |
+| **[vibe-project-foundation](https://github.com/AidenXu-1/vibe-project-foundation-skill)** | 中文名「Vibe 项目地基」。为新的软件项目搭建开发前地基，适合新建 Vibe Coding 项目并建立必要文档与安全边界。 | [获取 Skill](https://github.com/AidenXu-1/vibe-project-foundation-skill/releases/latest) |
 
 ### IP 操盘
 
@@ -56,4 +52,3 @@
 ## 使用与交流
 
 每个项目的安装说明、适用范围和最新版本都以它自己的仓库为准。遇到问题或想提出建议，可以进入对应项目的仓库交流。
-
