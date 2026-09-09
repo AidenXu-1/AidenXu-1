@@ -39,6 +39,11 @@
       <td>「公众号排版发布」。完成配图、封面、排版和公众号草稿交付，适合把内容整理成可检查、可复制、可发布的公众号成稿。</td>
       <td nowrap><a href="https://github.com/AidenXu-1/wechat-layout-publisher">获取 Skill</a></td>
     </tr>
+    <tr>
+      <td nowrap><strong><a href="https://github.com/AidenXu-1/museframe-skill">museframe</a></strong></td>
+      <td>「小红书配图」。把主题、文章或口播稿制作成小红书封面与组图，支持六种内置视觉风格和自定义参考图。</td>
+      <td nowrap><a href="https://github.com/AidenXu-1/museframe-skill">获取 Skill</a></td>
+    </tr>
   </tbody>
 </table>
 
