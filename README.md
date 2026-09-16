@@ -77,7 +77,22 @@
 
 ### 通用办公
 
-目前没有已公开的 Skill。
+<table>
+  <thead>
+    <tr>
+      <th width="24%" nowrap>Skill</th>
+      <th width="61%">简介</th>
+      <th width="15%" nowrap>获取</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td nowrap><strong><a href="https://github.com/AidenXu-1/html-deck-studio">html-deck-studio</a></strong></td>
+      <td>「HTML 演示工坊」。把内容做成可双击打开、可翻页、可交付的 16:9 HTML 演示，内置三套视觉风格和可复用页面模板。</td>
+      <td nowrap><a href="https://github.com/AidenXu-1/html-deck-studio">获取 Skill</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ## 我在意的事
 
