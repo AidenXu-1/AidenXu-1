@@ -59,14 +59,19 @@
   </thead>
   <tbody>
     <tr>
-      <td nowrap><strong><a href="https://github.com/AidenXu-1/agent-team-skill">agent-team</a></strong></td>
-      <td>「Agent 团队」。组织多个 AI 会话分工、接班和独立检查，适合长期项目、复杂功能，以及需要持续协作与验收的工作。</td>
-      <td nowrap><a href="https://github.com/AidenXu-1/agent-team-skill">获取 Skill</a></td>
+      <td nowrap><strong><a href="https://github.com/AidenXu-1/github-readme-design">github-readme-design</a></strong></td>
+      <td>「GitHub README 装修」。为工具和 Skill 编写、装修与更新仓库首页，讲清用途、展示效果，并整理安装与使用步骤。</td>
+      <td nowrap><a href="https://github.com/AidenXu-1/github-readme-design">获取 Skill</a></td>
     </tr>
     <tr>
       <td nowrap><strong><a href="https://github.com/AidenXu-1/vibe-project-foundation-skill">vibe-project-foundation</a></strong></td>
       <td>「Vibe 项目地基」。为新的软件项目搭建开发前地基，适合新建 Vibe Coding 项目并建立必要文档与安全边界。</td>
       <td nowrap><a href="https://github.com/AidenXu-1/vibe-project-foundation-skill">获取 Skill</a></td>
+    </tr>
+    <tr>
+      <td nowrap><strong><a href="https://github.com/AidenXu-1/agent-team-skill">agent-team</a></strong></td>
+      <td>「Agent 团队」。组织多个 AI 会话分工、接班和独立检查，适合长期项目、复杂功能，以及需要持续协作与验收的工作。</td>
+      <td nowrap><a href="https://github.com/AidenXu-1/agent-team-skill">获取 Skill</a></td>
     </tr>
   </tbody>
 </table>
