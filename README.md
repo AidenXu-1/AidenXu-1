@@ -11,6 +11,7 @@
 | **[Lulu](https://github.com/AidenXu-1/Lulu)** | 本地转录、内容采集与创作资料管理 | [查看项目](https://github.com/AidenXu-1/Lulu) · [下载最新版](https://github.com/AidenXu-1/Lulu/releases/latest) |
 | **[SkillBox](https://github.com/AidenXu-1/SkillBox)** | 在 macOS 上统一管理 Agent Skills，安装前可以预览，操作可以撤销 | [查看项目](https://github.com/AidenXu-1/SkillBox) · [下载最新版](https://github.com/AidenXu-1/SkillBox/releases/latest) |
 | **[帧集](https://github.com/AidenXu-1/Zhenji)** | 本地截图、录屏与素材采集 | [查看项目](https://github.com/AidenXu-1/Zhenji) · [下载最新版](https://github.com/AidenXu-1/Zhenji/releases/latest) |
+| **[弦外屋](https://github.com/AidenXu-1/Xianwaiwu)** | 在 Mac 本地分离音轨，跟着歌词练唱，生成可校正的吉他和弦弹唱谱 | [查看项目](https://github.com/AidenXu-1/Xianwaiwu) · [下载 Mac 版](https://github.com/AidenXu-1/Xianwaiwu/releases/latest) |
 | **[兆基 Clipper](https://github.com/AidenXu-1/ZJ-clipper)** | 准确抓取网页内容，并以 Markdown 保存到 Obsidian | [查看项目](https://github.com/AidenXu-1/ZJ-clipper) · [下载最新版](https://github.com/AidenXu-1/ZJ-clipper/releases/latest) |
 | **[HTML Studio](https://github.com/AidenXu-1/zj-html-studio)** | 在 Obsidian 中安全预览本地 HTML | [查看项目](https://github.com/AidenXu-1/zj-html-studio) · [下载最新版](https://github.com/AidenXu-1/zj-html-studio/releases/latest) |
 
