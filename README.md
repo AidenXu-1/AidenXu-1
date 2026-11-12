@@ -14,6 +14,7 @@
 | **[弦外屋](https://github.com/AidenXu-1/Xianwaiwu)** | 在 Mac 本地分离音轨，跟着歌词练唱，生成可校正的吉他和弦弹唱谱 | [查看项目](https://github.com/AidenXu-1/Xianwaiwu) · [下载最新版](https://github.com/AidenXu-1/Xianwaiwu/releases/latest) |
 | **[兆基 Clipper](https://github.com/AidenXu-1/ZJ-clipper)** | 准确抓取网页内容，并以 Markdown 保存到 Obsidian | [查看项目](https://github.com/AidenXu-1/ZJ-clipper) · [下载最新版](https://github.com/AidenXu-1/ZJ-clipper/releases/latest) |
 | **[HTML Studio](https://github.com/AidenXu-1/zj-html-studio)** | 在 Obsidian 中安全预览本地 HTML | [查看项目](https://github.com/AidenXu-1/zj-html-studio) · [下载最新版](https://github.com/AidenXu-1/zj-html-studio/releases/latest) |
+| **[抖音主页设置模拟器](https://github.com/AidenXu-1/douyin-profile-simulator)** | 编辑资料、裁切头像和封面，实时预览抖音手机端主页 | [在线使用](https://aidenxu-1.github.io/douyin-profile-simulator/) · [下载 HTML](https://github.com/AidenXu-1/douyin-profile-simulator/releases/latest/download/douyin-profile-simulator.html) |
 
 ## 我的 Skills
 
